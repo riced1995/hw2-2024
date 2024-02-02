@@ -54,9 +54,7 @@ div {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-top: 2px solid;
-    border-right: 5px solid;
-    color: #C4C4C4;
+    border-width: 0 5px 2px 0;
 }
 
 .blue p {
@@ -71,7 +69,7 @@ div {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border-width: 0 0 2px 5px;
+    border-width: 2px 5px 0 0;
     color: #707070;
 }
 
@@ -79,7 +77,7 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-width: 5px 2px 0 0;
+    border-width: 2px 5px 0 0;
 }
 
 footer {
